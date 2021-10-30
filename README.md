@@ -1,5 +1,5 @@
 # BQR
-This project cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for the our permission.
+This project cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission.
 
 We provide a comprehensive dataset of focal stack images. These test sequences cover the field of research and applications, for instance, light field displays, medical image analysis and 3D visual sensing.
 

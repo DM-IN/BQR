@@ -1,1 +1,1 @@
-synthetic scenes(Lytro Illum 624x432, YUV420)
+synthetic scenes(Lytro Illum 624x432, YUV420).
